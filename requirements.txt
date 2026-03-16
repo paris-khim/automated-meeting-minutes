@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+faster-whisper
+pyannote.audio
+langchain
+vllm
+faiss-cpu
+python-multipart
+python-dotenv
+aiofiles
+pydantic>=2.0.0
